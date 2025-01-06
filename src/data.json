@@ -1,16 +1,16 @@
 {
   "nav": {
-    "logo": "Bentolio",
+    "logo": "Miles Blackwell",
     "links": [
       {
-        "title": "Buy Next.js template",
-        "url": "https://rauftech.lemonsqueezy.com/buy/43d4f6ca-c525-497f-a77a-8148150335dc"
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/milesblackwell/"
       }
     ]
   },
 
   "intro": {
-    "heading": "Let’s create dance floor <span class='italic'> magic</span> for your special day",
+    "heading": "Exploring the <span class='italic'> intersection</span> of financial services and technology",
     "icon": "/icons/intro-icon.svg"
   },
    
@@ -19,7 +19,7 @@
   },
 
   "about": {
-    "text": "DJ Lisa is a passionate wedding DJ, acclaimed for blending diverse musical genres with expert crowd-reading skills. Based in Florida, she crafts personalized soundtracks that turn every wedding into an unforgettable celebration.",
+    "text": "My name is Miles Blackwell, and I am a senior at Columbia University studying Computer Science with a minor in Operations Research. I am passionate about applying my quantitative skills at the intersection of finance and technology, with a strong interest in advancing the financial services sector. I look forward to connecting with professionals in finance and technology.",
     "icon": "/icons/about-icon.svg"
   },
 
@@ -27,38 +27,33 @@
     "label": "Have some questions?",
     "heading": "Contact <span class='italic'>me</span>",
     "linkIcon": "/icons/arrow-icon.svg",
-    "email": "hello@rauftech.com"
+    "email": "mab2459@columbia.edu"
   },
 
   "work": {
     "projects": [
       {
-        "title": "First Dance",
+        "title": "National Society of Black Engineers",
         "url": "",
-        "media": "/work.png"
+        "media": "/nsbe.png"
       },
       {
-        "title": "Cocktail Hour",
+        "title": "Columbia University Baseball",
         "url": "",
-        "media": "/work.png"
+        "media": "/baseball.png"
 
       },
       {
-        "title": "Dinner Music",
-        "url": "",
-        "media": "/work.png"
+        "title": "Photography",
+        "url": "https://mileslikesfilm.netlify.app/",
+        "media": "/photography.png"
 
       },
       {
-        "title": "After Party",
+        "title": "Medium",
         "url": "",
         "media": "/work.png"
 
-      },
-      {
-        "title": "Last Dance",
-        "url": "",
-        "media": "/work.png"
       }
     ],
     "linkIcon": "/icons/arrow-icon-black.svg"  
@@ -68,16 +63,16 @@
   "socials": {
     "links": [
       {
-        "title": "Figma",
-        "url": "https://www.figma.com/@lilcoderman"
-      },
-      {
-        "title": "Instagram",
-        "url": "https://www.instagram.com/lilcoderman/"
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/milesblackwell/"
       },
       {
         "title": "Github",
-        "url": "https://github.com/abdulrauf11"
+        "url": "https://github.com/mosheeboy"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/milesallenb/"
       }
     ]
   }

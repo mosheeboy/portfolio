@@ -10,11 +10,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#D8CFBC',
-        secondary: '#565449',
-
-        text: '#11120D',
-        background: '#11120D',
+        primary: '#f8f8f8',
+        secondary: '#d1d1d1',
+        text: '#2d2d2d',
+        background: '#ffffff',
       },
 
       fontFamily: {
@@ -25,3 +24,20 @@ module.exports = {
   },
   plugins: [],
 };
+
+/*
+navy: 293854
+white; fdfff7
+darker navy: 201f21
+blue: 4176fc
+
+white: eoeoeo
+sand: bda593
+camel: 99755c
+green: 374735
+
+ccc5b9
+403d39
+11120D
+fffcfd
+*/
