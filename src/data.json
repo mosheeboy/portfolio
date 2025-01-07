@@ -10,7 +10,7 @@
   },
 
   "intro": {
-    "heading": "Exploring the <span class='italic'> intersection</span> of financial services and technology",
+    "heading": "Exploring <span class='italic'> Innovation </span> in <span class='italic'> Technology </span> and <span class='italic'> Design </span>",
     "icon": "/icons/intro-icon.svg"
   },
    
@@ -19,7 +19,7 @@
   },
 
   "about": {
-    "text": "My name is Miles Blackwell, and I am a senior at Columbia University studying Computer Science with a minor in Operations Research. I am passionate about applying my quantitative skills at the intersection of finance and technology, with a strong interest in advancing the financial services sector. I look forward to connecting with professionals in finance and technology.",
+    "text": "My name is Miles Blackwell, and I am a senior at Columbia University’s School of Engineering and Applied Sciences, studying Computer Science. I am passionate about creating impactful technology solutions, with a strong interest in product development and design. I look forward to connecting with like-minded professionals who are shaping the future of technology and innovation.",
     "icon": "/icons/about-icon.svg"
   },
 
@@ -52,7 +52,7 @@
       {
         "title": "Medium",
         "url": "",
-        "media": "/work.png"
+        "media": "/medium.gif"
 
       }
     ],
