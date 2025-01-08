@@ -11,7 +11,7 @@ module.exports = {
     extend: {
       colors: {
         primary: '#F1F4F7',
-        secondary: '#ADB5BD',
+        secondary: '#003153',
         text: '#202020',
         background: '#E4E8EB',
       },
@@ -19,6 +19,7 @@ module.exports = {
       fontFamily: {
         heading: ['var(--font-heading)', 'serif'],
         body: ['var(--font-body)', 'sans-serif'],
+        baskerville: ['Libre Baskerville', 'Baskerville', 'serif'],
       },
     },
   },

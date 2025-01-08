@@ -19,21 +19,8 @@ export default function About({ data, timeline }) {
       className='-translate-y-full scale-0 opacity-0'
       callbackAnimation={contentAnimation}
     >
-      <div className='flex size-full flex-col justify-between gap-4'>
-        {/* Icon */}
-        <div className='size-[2.75rem]'>
-          {data?.icon && (
-            <Image
-              src={data.icon}
-              width={48}
-              height={48}
-              alt='disk'
-              className='about-icon size-full'
-            />
-          )}
-        </div>
-
-        <p className='about-text max-w-[25rem] pb-2 text-lg leading-[135%]'>
+      <div className='flex size-full flex-col justify-center items-start px-8'>
+        <p className='about-text max-w-[25rem] text-lg font-serif font-normal leading-[180%]'>
           {data?.text}
         </p>
       </div>

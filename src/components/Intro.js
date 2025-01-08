@@ -18,21 +18,9 @@ export default function Intro({ data, timeline }) {
       className={'translate-x-full scale-0 opacity-0'}
       callbackAnimation={contentAnimation}
     >
-      <div className='z-10 flex size-full flex-col justify-between gap-4'>
-        {/* Icon */}
-        <div className='ml-auto size-[8rem]'>
-          {data?.icon && (
-            <Image
-              src={data.icon}
-              width={100}
-              height={100}
-              alt='flower'
-              className='intro-icon size-full'
-            />
-          )}
-        </div>
+      <div className='z-10 flex size-full flex-col justify-center items-start px-8'>
         <h1
-          className='intro-heading max-w-[35rem] pb-8 font-heading text-[3.6rem] font-normal leading-[100%]'
+          className='intro-heading max-w-[35rem] font-heading text-[3.6rem] font-normal leading-[100%]'
           dangerouslySetInnerHTML={{ __html: data?.heading }}
         ></h1>
       </div>
