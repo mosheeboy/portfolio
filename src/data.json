@@ -10,7 +10,7 @@
   },
 
   "intro": {
-    "heading": "Exploring <span class='italic'> Innovation </span> in <span class='italic'> Technology </span> and <span class='italic'> Design </span>",
+    "heading": "Exploring Innovation in <span class='italic text-secondary'> Technology </span> and <span class='italic text-secondary'> Design </span>",
     "icon": "/icons/intro-icon.svg"
   },
    

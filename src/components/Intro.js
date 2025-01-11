@@ -20,7 +20,7 @@ export default function Intro({ data, timeline }) {
     >
       <div className='z-10 flex size-full flex-col justify-center items-start px-8'>
         <h1
-          className='intro-heading max-w-[35rem] font-heading text-[3.6rem] font-normal leading-[100%]'
+          className='intro-heading max-w-[40rem] font-heading text-[4.2rem] font-normal leading-[100%]'
           dangerouslySetInnerHTML={{ __html: data?.heading }}
         ></h1>
       </div>

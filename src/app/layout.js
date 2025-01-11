@@ -1,4 +1,4 @@
-import { DM_Sans, DM_Serif_Display, Noto_Sans } from 'next/font/google';
+import { DM_Sans, DM_Serif_Display, Montserrat } from 'next/font/google';
 import Global from '@/components/Global';
 import './globals.css';
 
@@ -24,19 +24,19 @@ const fontBody = DM_Sans({
   variable: '--font-body',
 });
 
-const notoSans = Noto_Sans({
-  weight: ['300', '400'],
+const montserrat = Montserrat({
+  weight: ['400'],
   style: ['normal'],
   subsets: ['latin'],
   display: 'swap',
-  variable: '--font-noto',
+  variable: '--font-montserrat',
 });
 
 export default function RootLayout({ children }) {
   return (
     <html lang='en' className='hide-scrollbar'>
       <body
-        className={`${fontHeading.variable} ${fontBody.variable} ${notoSans.variable} antialiased`}
+        className={`${fontHeading.variable} ${fontBody.variable} ${montserrat.variable} antialiased`}
       >
         <Global />
         {children}

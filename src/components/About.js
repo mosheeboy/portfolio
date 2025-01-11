@@ -19,8 +19,8 @@ export default function About({ data, timeline }) {
       className='-translate-y-full scale-0 opacity-0'
       callbackAnimation={contentAnimation}
     >
-      <div className='flex size-full flex-col justify-center items-start px-8'>
-        <p className='about-text max-w-[28rem] text-[1.2rem] font-noto font-light leading-[160%]'>
+      <div className='flex size-full flex-col justify-center items-start px-4'>
+        <p className='about-text max-w-[32rem] text-[1.35rem] font-noto font-light leading-[140%]'>
           {data?.text}
         </p>
       </div>
