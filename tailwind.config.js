@@ -19,7 +19,7 @@ module.exports = {
       fontFamily: {
         heading: ['var(--font-heading)', 'serif'],
         body: ['var(--font-body)', 'sans-serif'],
-        baskerville: ['Libre Baskerville', 'Baskerville', 'serif'],
+        noto: ['var(--font-noto)', 'sans-serif'],
       },
     },
   },

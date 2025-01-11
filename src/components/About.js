@@ -20,7 +20,7 @@ export default function About({ data, timeline }) {
       callbackAnimation={contentAnimation}
     >
       <div className='flex size-full flex-col justify-center items-start px-8'>
-        <p className='about-text max-w-[25rem] text-lg font-serif font-normal leading-[180%]'>
+        <p className='about-text max-w-[28rem] text-[1.2rem] font-noto font-light leading-[160%]'>
           {data?.text}
         </p>
       </div>
