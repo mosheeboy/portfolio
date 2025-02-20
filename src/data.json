@@ -10,7 +10,7 @@
   },
 
   "intro": {
-    "heading": "Exploring Innovation in <span class='italic text-secondary'>FinTech</span> and <span class='italic text-secondary'>Design</span>",
+    "heading": "Exploring Innovation in <span class='italic text-secondary'>Finance</span> and <span class='italic text-secondary'>Technology</span>",
     "icon": "/icons/intro-icon.svg"
   },
    
@@ -19,7 +19,7 @@
   },
 
   "about": {
-    "text": "My name is Miles Blackwell, and I am a senior at Columbia University’s School of Engineering and Applied Sciences, studying Computer Science. I am passionate about developing innovative technology solutions that transform the financial services landscape. With a strong background in software development, design, and financial analytics, I strive to create impactful, user-centric products that drive industry innovation. I look forward to connecting with like-minded professionals who are shaping the future of FinTech and financial services.",
+    "text": "My name is Miles Blackwell, and I am a senior at Columbia University’s School of Engineering and Applied Sciences, studying Computer Science. I am passionate about developing innovative technology solutions that transform the financial services industry.",
     "icon": "/icons/about-icon.svg"
   },
 
